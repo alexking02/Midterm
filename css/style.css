@@ -1,0 +1,10 @@
+body {
+    background-color: #aad4cf;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 1024px;
+    background-color: #d4e9e7;
+    margin: auto;
+}
